@@ -343,7 +343,6 @@ Restaurant.html
 
 ![alt text](<Screenshot 2024-12-14 194742.png>) 
 
-![alt text](<Screenshot 2024-12-14 194830.png>)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
